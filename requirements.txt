@@ -1,0 +1,11 @@
+pandas==1.0.5
+matplotlib==3.2.2
+DateTime==4.3
+numpy==1.18.5
+scipy==1.5.0
+ipywidgets==7.5.1
+pip==20.1.1
+networkx==2.4
+
+
+
